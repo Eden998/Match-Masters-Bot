@@ -16,4 +16,5 @@ Match Masters is a game tile-matching puzzle video game, The goal is to clear ti
 Each board is filled with the colors: Blue, Green, Yellow, Orange, Purple and Red.
 
 Here is an example of a regular board from the game:
+
 ![Image of Game Board](https://github.com/Eden998/Match-Masters-Bot/blob/main/images/game_board.png)
