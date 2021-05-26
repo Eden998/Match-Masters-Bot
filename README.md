@@ -32,10 +32,10 @@ Here is an example for image recognition of a special tile from the game:
 ![Image of Game Board](https://github.com/Eden998/Match-Masters-Bot/blob/main/images/image_recognition.png)
 
 ## 2. Trying all possible moves
- The bot switch every 2 possible tiles, and see if there is any match, if there is, it explodes all the matching tiles and simulates the drop of the tiles.
+ The bot switches every 2 possible tiles, and sees if there is any match, if there is, it explodes all the matching tiles and simulates the drop of the tiles.
 
 ## 3. Recursion
 After dropping the tiles due to a match, the same function is called again and checks if there is any chain reaction cause by the last move.
 
 ## 4. Finding the best move
-The bot assigning a score to each move according to the performence, and the best move is being kept and done at the end of the program.
+The bot assigning a score to each move according to it's performence, and the best move is being kept and done at the end of the program.
