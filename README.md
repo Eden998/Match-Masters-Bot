@@ -27,6 +27,10 @@ Here is an example of a regular board from the game:
 ## 1. Image Recognition
 The first thing the application does is to take a picture of the screen, after that it uses the OpenCV library to recognize shapes on the screen to make a replica of the game board in to a 2D array.
 
+Here is an example for image recognition of a special tile from the game:
+
+![Image of Game Board](https://github.com/Eden998/Match-Masters-Bot/blob/main/images/image_recognition.png)
+
 ## 2. Trying all possible moves
  The bot switch every 2 possible tiles, and see if there is any match, if there is, it explodes all the matching tiles and simulates the drop of the tiles.
 
